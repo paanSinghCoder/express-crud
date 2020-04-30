@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DEF_BASE_API_URL": "https://localhost:4000",
+        "DEF_MONGO_ATLAS_URL": "mongodb+srv://user:9d53u31MYFjVwawq@credit-card-surz3.mongodb.net/test?retryWrites=true&w=majority",
+        "DEF_JWT_PRIVATE_KEY": "secret"
+    }
+}
